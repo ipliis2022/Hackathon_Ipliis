@@ -37,7 +37,7 @@
 - - -
 
 # Environment 
-colab Python 3.7.13
+colab Python 3.7.13  
 잿슨 버전 확인 후 추가 예정
 - - -
 
