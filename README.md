@@ -54,18 +54,26 @@ colab Python 3.7.13
 # 코드
 
 >  ## 전체 소스 코드 
->  https://github.com/HyundongSeo/Hackathon_Ipliis/blob/9ec86ac71bc95667acbba370f1e5aa68a7ca5d9b/ipills.py
+>  - [전체 소스 코드](https://github.com/HyundongSeo/Hackathon_Ipliis/blob/9ec86ac71bc95667acbba370f1e5aa68a7ca5d9b/ipills.py)
 >  - yolov5에 weight는 pretrained된 값을 미리 저장해 놓음
 > - yolo에서 예상한 것들과 ocr에서 인식한 값이 얼마나 일치하는지 확인하기 위해 문자를 한글자씩 나눠서 저장
 > - 버튼(1,2,3)에 따라 필요한 정보만 출력
+> - TTS, OCR, YOLO 다 포함
 
 > ## YOLOv5 소스 코드
-> - (detect.py링크), (general.py링크)
+> - [detect.py](https://github.com/Yoon0527/AIFFEL_Project/blob/3c82e88570bdd02d449861d6c0cba2a94811a3ae/detect.py), [general.py](https://github.com/Yoon0527/AIFFEL_Project/blob/3c82e88570bdd02d449861d6c0cba2a94811a3ae/general%20(1).py)
 > - 기본적으로는 ultralyrics yolov5의 깃클론을 통해 이루어져 있음
 > - 우리는 크롭한 이미지를 ocr로 넘겨줘야하고 욜로가 정답을 맞추지 못했을 경우 ocr에게 확인해봐야하는 후순위를 전달하기 위해 rank출력이 필요했음
 > - 위 링크의 코드 수정을 통해 아래와 같은 결과를 도출
 > ![image](https://user-images.githubusercontent.com/97325633/172222343-50850db8-63b9-4554-86e7-a6c4347b343f.png)
 > ![image](https://user-images.githubusercontent.com/97325633/172222983-657f4116-92ac-4f01-a989-aed0fedf67f3.png)
+
+> ## Google OCR 소스 코드
+> - [Google OCR 코드](https://river-butterfly-5b4.notion.site/G_OCR-3753b3a89e1b4a17a4d80872d429dd81)
+> - google ocr api 사용
+> - 잿슨에 하는 방법까지 포함
+> - 여러 api 중 google을 선택한 이유![image](https://user-images.githubusercontent.com/97325633/172307542-cc942261-21c7-442f-9981-400c29b0dbad.png)
+
 - - - 
 
 # Contributor
