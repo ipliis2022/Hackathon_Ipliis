@@ -89,7 +89,7 @@ colab Python 3.7.13
 
 
 > <details> 
-> <summary>references</summary>
+> <summary>References</summary>
 > [딥러닝을 이용한 자동 알약 인식, 성균관대학교 일반대학원(2021)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=b5c082324cf3b892ffe0bdc3ef48d419&outLink=K)  
 > [딥러닝을 활용한 알약 인식 모델 연구, 국립 강릉원주대학교 컴퓨터공학과(2020)](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/2020fall/presentation/KIPS_C2020B0146.pdf)  
 > [딥러닝을 활용한 알약 분석 어플리케이션, 인천대학교 정보통신공학과(2020)](https://manuscriptlink-society-file.s3-ap-northeast-1.amazonaws.com/kips/conference/2020fall/presentation/KIPS_C2020B0152.pdf)  
