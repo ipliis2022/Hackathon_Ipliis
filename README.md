@@ -13,7 +13,7 @@
 기존에 알약을 구분해주는 어플리케이션이 출시되어 사용되고 있지만 시각 장애인에게 스마트폰을 이용해서 알약을 구별해내는 것은
 어려움이 있기 때문에 자체 하드웨어 제작을 통해 더 직관적으로 사용할 수 있는 차별점을 두고 있다. 
 
-![image](https://user-images.githubusercontent.com/97325633/172160610-50b52fe1-f850-4917-b1e2-cc9c44446f4c.png)
+![image](https://user-images.githubusercontent.com/97012327/172518429-77a5f6e7-edce-4244-9b5e-5083008905a1.png)
 
 
 > ## 1. Function list
