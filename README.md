@@ -86,6 +86,7 @@ colab Python 3.7.13
 > [youngjoonyoon](https://github.com/Yoon0527/AIFFEL_Project.git)  
 > [jieunhwang](https://github.com/LumiHunter/Hackathon_Ipliis.git)  
 > [keonhoko](https://github.com/GeonHoKo/AIFFEL-HACKATHON.git)  
+> [hyundongseo](https://github.com/HyundongSeo/Hackathon_Ipliis.git)
 
 
 > <details> 
