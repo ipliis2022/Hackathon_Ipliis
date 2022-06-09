@@ -26,7 +26,7 @@
 
 > ## 2. Detailed function
 > Software
-> ![image](https://user-images.githubusercontent.com/97325633/172170402-b59a6cc8-f0e7-4149-a8ac-cb0c099470d0.png)
+> ![image](https://user-images.githubusercontent.com/97325633/172784461-5740dec9-b658-4e51-bf71-5fb21cff348b.png)
 > - YOLOv5를 통해 예상되는 결과를 4순위까지 추출하고 바운딩박스 좌표에 해당하는 사진을 Crop하는 프로그램
 > - OCR을 통해 각인을 인식해낸 후 YOLO에서 받은 RANK에 해당하는 각인과 비교하여 가장 높은 확률에 해당하는 알약을 판별
 > - 가장 유력한 알약에 대한 복약법, 주의사항, 부작용등을 스위치를 통해 원하는 정보를 출력
