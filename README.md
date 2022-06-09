@@ -22,7 +22,7 @@
 > S/W|알약 Dectection & 구분|YOLOv5|
 > S/W|알약 각인 인식|Google OCR|
 > S/W|구별된 알약에 대한 정보를 음성으로 출력|Kakao_TTS|
-> H/W|알약을 올려놓고 버튼을 통해 조작|잿슨나노|
+> H/W|알약을 올려놓고 버튼을 통해 조작|젯슨나노|
 
 > ## 2. Detailed function
 > Software
